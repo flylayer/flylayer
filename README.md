@@ -15,7 +15,7 @@ wget http://dl.flylayer.com/flylayer-offline-linux-amd64-v20250502053000.tar.gz
 
 #### ARM64 架构（Linux）
 ```bash
-wget URL_ADDRESS.flylayer.com/flylayer-offline-linux-arm64-v20250502053000.tar.gz
+wget http://dl.flylayer.com/flylayer-offline-linux-arm64-v20250502053000.tar.gz
 ```
 
 ### 2. 执行安装
