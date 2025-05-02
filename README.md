@@ -128,11 +128,11 @@ cd flylayer
 
 ### 飞越云零信任网络和传统 VPN 产品有什么差别？
 
-飞越云零信任网络是一款深度融合 VPN、各种组网类型和零信任身份的企业级产品，在便捷性、灵活性、功能性、安全性以及企业级管理等方面均具有显著差异。详细对比参考「竞品对比分析 VPN 部分」。
+飞越云零信任网络是一款深度融合 VPN、各种组网类型和零信任身份的企业级产品，在便捷性、灵活性、功能性、安全性以及企业级管理等方面均具有显著差异。详细对比参考 [竞品对比分析 VPN 部分](https://docs.feiyue.cloud/std/admin-manual/v1/QhuXd9YkmoCEPsxM7FXccn5EnAd#share-TMYndD9iJoYE52xUSFFccq77nzh?from=2)。
 
 ### 飞越云零信任网络和其它零信任产品（如 SDP、ZTNA）有什么差别？
 
 飞越云零信任网络产品聚焦于提供默认安全且便捷好用的 IT 网络基础设施，致力于成为一款好用的企业级 VPN 和组网工具，深度融合安全和网络以提供互操作能力。
 
-不提供其它零信任产品包含的终端安全一体化的安全功能，如杀毒、DLP、沙箱、桌管等。详细对比参考「竞品对比分析其它零信任产品部分」。
+不提供其它零信任产品包含的终端安全一体化的安全功能，如杀毒、DLP、沙箱、桌管等。详细对比参考 [竞品对比分析其它零信任产品部分](https://docs.feiyue.cloud/std/admin-manual/v1/QhuXd9YkmoCEPsxM7FXccn5EnAd#share-ZgUgdGpagoxfBdxV5HCc4LFinfb?from=2)。
 
