@@ -2,12 +2,12 @@
   <a name="readme-top"></a>
   <a href="https://feiyue.cloud" target="_blank"><img src="res/logo.svg" alt="feiyue" width="200" /></a>
   
-## 飞越云 | 最新免费好用的企业级 VPN 和组网工具，可私有化部署的 Tailscale
+## 飞越云 | 最新免费好用的企业级 VPN 和组网工具，可私有化部署的 Tailscale平替
 </div>
 <br/>
  
 ## 产品简介
- 飞越云零信任网络产品提供企业级 VPN 和组网功能，是可免费私有化部署的 Tailscale 。它基于WireGuard协议启用加密的点对点连接，可让您在世界任何地方安全轻松地访问您被授权的任何设备和应用服务。
+ 飞越云零信任网络产品提供企业级 VPN 和组网功能，是可免费私有化部署的 Tailscale平替 。它基于WireGuard协议启用加密的点对点连接，可让您在世界任何地方安全轻松地访问您被授权的任何设备和应用服务。
  <img src= "res/e26a0e74-3294-4f2a-995a-6f8ecb03d5a8.png" alt="Flylayer"/>
 
 ## 飞越云零信任网络
