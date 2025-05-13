@@ -2,7 +2,7 @@
   <a name="readme-top"></a>
   <a href="https://feiyue.cloud" target="_blank"><img src="res/logo.png" alt="feiyue" width="200" /></a>
   
-## 飞越云 | 最新免费好用的企业级 VPN 和组网工具，可私有化部署的 Tailscale平替
+## 飞越云 | 最新免费好用的企业级VPN和组网工具，可私有化部署的Tailscale平替
 </div>
 <br/>
  
