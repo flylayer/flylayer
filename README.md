@@ -36,13 +36,13 @@
 #### x86_64 架构（Linux）
 
 ```bash
-wget https://dl.flylayer.com/flylayer-offline-linux-amd64-v20250511120114.tar.gz
+wget https://dl.flylayer.com/flylayer-offline-linux-amd64-v20250513073928.tar.gz
 ```
 
 #### ARM64 架构（Linux）
 
 ```bash
-wget https://dl.flylayer.com/flylayer-offline-linux-arm64-v20250511120114.tar.gz
+wget https://dl.flylayer.com/flylayer-offline-linux-arm64-v20250513073928.tar.gz
 ```
 
 ### 2. 执行安装
