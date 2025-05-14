@@ -31,7 +31,6 @@
 
 ## 快速开始
 [飞越云零信任网络平台安装部署指南](https://docs.flylayer.com/deploy/quickstart?from=2)
-
 ---
 
 ## 如何选择接入部署方式
