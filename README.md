@@ -30,43 +30,7 @@
 <img src= "res/44f5c36f-f3cd-4b07-8fc0-d6b3269d384b.png" alt="Flylayer"/>
 
 ## 快速开始
-
-### 1. 安装包获取
-
-#### x86_64 架构（Linux）
-
-```bash
-wget https://dl.flylayer.com/flylayer-offline-linux-amd64-v20250513073928.tar.gz
-```
-
-#### ARM64 架构（Linux）
-
-```bash
-wget https://dl.flylayer.com/flylayer-offline-linux-arm64-v20250513073928.tar.gz
-```
-
-### 2. 执行安装
-
-```bash
-# 解压安装包
-tar -zxvf <安装包名称>
-
-# 进入安装目录
-cd flylayer
-
-# 开始安装
-./flylayer-k8s install
-```
-
-根据安装引导完成部署。
-
-[查看详细部署文档](https://docs.flylayer.com/deploy/quickstart?from=2)
-
-### 3. 执行卸载
-
-```bash
-./flylayer-k8s uninstall
-```
+[飞越云零信任网络平台安装部署指南](https://docs.flylayer.com/deploy/quickstart?from=2)
 
 ---
 
