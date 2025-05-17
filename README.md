@@ -30,7 +30,9 @@
 <img src= "res/44f5c36f-f3cd-4b07-8fc0-d6b3269d384b.png" alt="Flylayer"/>
 
 ## 快速开始
+
 [飞越云零信任网络平台安装部署指南](https://docs.flylayer.com/deploy/quickstart?from=2)
+
 ---
 
 ## 如何选择接入部署方式
