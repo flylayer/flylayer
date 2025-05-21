@@ -159,4 +159,4 @@
 
 ### 飞越云零信任组网和其它零信任产品（如 SDP、ZTNA）有什么差别？
 
-飞越云零信任组网产品聚焦于提供默认安全且便捷好用的 IT 网络基础设施，致力于成为一款好用的企业级 VPN 和组网工具，深度融合安全和网络以提供互操作能力。不提供其它零信任产品包含的终端安全一体化的安全功能，如杀毒、 DLP 、沙箱、桌管等。详细对比参考 [竞品对比分析其它零信任产品部分](https://docs.feiyue.cloud/std/admin-manual/v1/QhuXd9YkmoCEPsxM7FXccn5EnAd#share-ZgUgdGpagoxfBdxV5HCc4LFinfb?from=2)。
+飞越云零信任组网产品聚焦于提供默认安全且便捷好用的 IT 网络基础设施，致力于成为一款好用的企业级零信任组网工具，深度融合安全和网络以提供互操作能力。不提供其它零信任产品包含的终端安全一体化的安全功能，如杀毒、 DLP 、沙箱、桌管等。详细对比参考 [竞品对比分析其它零信任产品部分](https://docs.feiyue.cloud/std/admin-manual/v1/QhuXd9YkmoCEPsxM7FXccn5EnAd#share-ZgUgdGpagoxfBdxV5HCc4LFinfb?from=2)。
